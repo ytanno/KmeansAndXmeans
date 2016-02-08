@@ -1,0 +1,9 @@
+c:\users\idmty\documents\visual studio 2015\Projects\xMeans\xMeans\bin\Debug\xMeans.exe.config
+c:\users\idmty\documents\visual studio 2015\Projects\xMeans\xMeans\bin\Debug\xMeans.exe
+c:\users\idmty\documents\visual studio 2015\Projects\xMeans\xMeans\bin\Debug\xMeans.pdb
+c:\users\idmty\documents\visual studio 2015\Projects\xMeans\xMeans\obj\Debug\xMeans.csprojResolveAssemblyReference.cache
+c:\users\idmty\documents\visual studio 2015\Projects\xMeans\xMeans\obj\Debug\xMeans.Form1.resources
+c:\users\idmty\documents\visual studio 2015\Projects\xMeans\xMeans\obj\Debug\xMeans.Properties.Resources.resources
+c:\users\idmty\documents\visual studio 2015\Projects\xMeans\xMeans\obj\Debug\xMeans.csproj.GenerateResource.Cache
+c:\users\idmty\documents\visual studio 2015\Projects\xMeans\xMeans\obj\Debug\xMeans.exe
+c:\users\idmty\documents\visual studio 2015\Projects\xMeans\xMeans\obj\Debug\xMeans.pdb
